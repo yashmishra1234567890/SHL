@@ -1,0 +1,5 @@
+k,query_type,mean_recall
+5,title,1.0
+5,description,0.0
+10,title,1.0
+10,description,0.0

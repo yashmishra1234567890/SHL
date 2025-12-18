@@ -1,0 +1,110 @@
+[
+  {
+    "name": "JavaScript (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "description": "JavaScript (New) Description Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 9 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "9 minutes"
+  },
+  {
+    "name": "Professional + 7.0 Solution | SHL",
+    "url": "",
+    "description": "Professional + 7.0 Solution Description Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services. Report Language Availability: English (USA). Job levels Mid-Professional, Professional Individual Contributor, Languages English International, English (USA), Assessment length Approximate Completion Time in minutes = 51 Test Type: A B C Remote Testing: Downloads Professional + 7.0 Detailed Report English (USA) Professional + 7.0 Development Report English (USA) Professional + 7.0 Interview Report English (USA) Product Fact Sheet English (USA)",
+    "test_type": [],
+    "remote_support": "",
+    "adaptive_support": "",
+    "duration": "51 minutes"
+  },
+  {
+    "name": "Python (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "description": "Python (New) Description Multi-choice test that measures the knowledge of Python programming, databases, modules and library. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 11 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "11 minutes"
+  },
+  {
+    "name": "Drupal (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "description": "Drupal (New) Description Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 17 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "17 minutes"
+  },
+  {
+    "name": "Automata Selenium | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "description": "Automata Selenium Description A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts. Job levels Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 60 Test Type: S Remote Testing: Downloads Product fact sheet English (USA) Sample Report English (USA)",
+    "test_type": [
+      "S"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "60 minutes"
+  },
+  {
+    "name": "Automata - Fix (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "description": "Automata - Fix (New) Description A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility. Read more on https://www.shl.com/legal/shl-us-regulatory-compliance/ Job levels Mid-Professional, Languages English (USA), Assessment length Approximate Completion Time in minutes = max 20 Test Type: S Remote Testing: Downloads Product fact sheet English (USA) Sample Report English (USA)",
+    "test_type": [
+      "S"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "max 20 minutes"
+  },
+  {
+    "name": "Core Java (Entry Level) (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Core Java (Entry Level) (New) Description Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 13 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "13 minutes"
+  },
+  {
+    "name": "Automata - SQL (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "description": "Automata - SQL (New) Description A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = max 30 Test Type: S Remote Testing: Downloads Product fact sheet English (USA) Sample Report English (USA)",
+    "test_type": [
+      "S"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "max 30 minutes"
+  },
+  {
+    "name": "Core Java (Advanced Level) (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Core Java (Advanced Level) (New) Description Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 13 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "13 minutes"
+  },
+  {
+    "name": "Manual Testing (New) | SHL",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "description": "Manual Testing (New) Description Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test reports. Job levels Mid-Professional, Professional Individual Contributor, Languages English (USA), Assessment length Approximate Completion Time in minutes = 10 Test Type: K Remote Testing: Downloads Product Fact Sheet English (USA)",
+    "test_type": [
+      "K"
+    ],
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "10 minutes"
+  }
+]
