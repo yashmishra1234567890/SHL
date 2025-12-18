@@ -1,0 +1,10 @@
+google-generativeai
+python-dotenv
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+plotly
