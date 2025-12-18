@@ -74,5 +74,3 @@ if st.button("Recommend"):
         st.text(f"Raw Response: {response.text}")
     except Exception as e:
         st.error(f"An error occurred: {e}")
-#to run the app, use the command:
-# streamlit run app/ui.py
