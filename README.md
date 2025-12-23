@@ -185,4 +185,5 @@ The system uses **Recall@K** to evaluate retrieval accuracy:
 * GenAI-powered search and recommendation demos
 
 
+*Live Demo:- https://jclg3riyas8cdlxmcdfcxs.streamlit.app/
 
