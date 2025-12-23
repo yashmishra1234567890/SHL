@@ -3,7 +3,7 @@
 A **Retrieval-Augmented Generation (RAG)** application designed to intelligently recommend **SHL assessments** based on user queries. The system combines **semantic vector search** with **Google’s Gemini LLM** to deliver context-aware, accurate, and explainable assessment recommendations.
 
 This project is built with a production-oriented mindset, focusing on clean architecture, evaluation, and fallback reliability.
-
+* Live Demo:- https://jclg3riyas8cdlxmcdfcxs.streamlit.app/
 ---
 
 ## 🚀 Features
@@ -185,5 +185,5 @@ The system uses **Recall@K** to evaluate retrieval accuracy:
 * GenAI-powered search and recommendation demos
 
 
-* Live Demo:- https://jclg3riyas8cdlxmcdfcxs.streamlit.app/
+
 
